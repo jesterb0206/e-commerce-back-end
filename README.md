@@ -1,4 +1,4 @@
-# Object-Relational Mapping (ORM) Challenge: E-commerce Back End
+# Object-Relational Mapping Challenge
 
 ## License
 
@@ -8,6 +8,24 @@
 ## Description
 
 The back end of an e-commerce website which uses an Express.js API and Sequelize to interact with a MySQL database.
+
+- [Object-Relational Mapping Challenge](#object-relational-mapping-challenge)
+  - [License](#license)
+  - [Description](#description)
+  - [Installation](#installation)
+    - [Insomnia Download Link](#insomnia-download-link)
+    - [Node.js Download Link](#nodejs-download-link)
+    - [MySQL Download Link](#mysql-download-link)
+  - [Usage](#usage)
+    - [Screenshots](#screenshots)
+    - [Walkthrough Video](#walkthrough-video)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
+    - [GitHub](#github)
+    - [Email](#email)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## Installation
 
