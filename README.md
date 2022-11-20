@@ -56,6 +56,10 @@ Click on the video link below to learn how to use E-commerce Back End:
 
 [E-commerce Back End Walkthrough Video Demonstration](assets/videos/e-commerce-back-end-walkthrough-video.webm)
 
+<h3 align="left">If you have difficulty accessing the video link above you can also find it on YouTube channel! I have attached the link to my YouTube video down below ⬇️</h3>
+
+<p align="left"> <a href="https://youtu.be/wpRLVU7OIvM" target="_blank" rel="noopener">E-commerce Back End Walkthrough YouTube Video</a></p>
+
 ## Contributing
 
 N/A
